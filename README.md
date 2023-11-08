@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**llRevolveRll/llRevolveRll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
-Here are some ideas to get you started:
+            <i class="devicon-dot-net-plain"></i>
+          
+            <i class="devicon-cplusplus-plain"></i>
+          
+            <i class="devicon-visualstudio-plain"></i>
+          
+            <i class="devicon-lua-plain"></i>
+          
+            <i class="devicon-css3-plain"></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <i class="devicon-python-plain"></i>
